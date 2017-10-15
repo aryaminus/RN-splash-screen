@@ -5,6 +5,16 @@ https://github.com/crazycodeboy/react-native-splash-screen
 npm i react-native-splash-screen --save
 react-native link react-native-splash-screen
 
+Usage:
+import SplashScreen from "react-native-splash-screen";
+and
+  componentDidMount() {
+    SplashScreen.hide();
+  }
+
+In launch_screen.xml make sure:
+android:background="@drawable/screen" for apetools below
+
 Goto:
 http://apetools.webprofusion.com/tools/imagegorilla
 Upload your 2048x2048 splashscreen and download the zip
@@ -16,5 +26,7 @@ Copy to app/src/main/res the following directories:
     drawable-xhdpi
     drawable-xxhdpi
     drawable-xxxhdpi
+
+import android.os.Bundle in Main Activity for "onCreate"
 
 Similar is the procedure for Icon which will be focusing on later
