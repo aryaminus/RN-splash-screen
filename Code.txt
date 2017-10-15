@@ -1,4 +1,20 @@
 react-native init RNsplashscreen
 
+Package:
+https://github.com/crazycodeboy/react-native-splash-screen
 npm i react-native-splash-screen --save
 react-native link react-native-splash-screen
+
+Goto:
+http://apetools.webprofusion.com/tools/imagegorilla
+Upload your 2048x2048 splashscreen and download the zip
+Extract and go to Android/res
+Copy to app/src/main/res the following directories:
+    drawable-ldpi
+    drawable-mdpi
+    drawable-hdpi
+    drawable-xhdpi
+    drawable-xxhdpi
+    drawable-xxxhdpi
+
+Similar is the procedure for Icon which will be focusing on later
