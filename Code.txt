@@ -1,0 +1,4 @@
+react-native init RNsplashscreen
+
+npm i react-native-splash-screen --save
+react-native link react-native-splash-screen
