@@ -2,6 +2,7 @@ react-native init RNsplashscreen
 
 Package:
 https://github.com/crazycodeboy/react-native-splash-screen
+
 npm i react-native-splash-screen --save
 react-native link react-native-splash-screen
 
