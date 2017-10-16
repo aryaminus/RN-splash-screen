@@ -14,8 +14,8 @@
 
 Clone the source locally:
 ```
-$ git clone https://github.com/aryaminus/RNsplashcreen
-$ cd RNsplashcreen
+$ git clone https://github.com/aryaminus/RN-splash-screen
+$ cd RN-splash-screen
 ```
 
 **Start the application in development mode**
@@ -44,7 +44,7 @@ Follow Manual.md
 
 ## Contributing
 
-1. Fork it (<https://github.com/aryaminus/RNsplashcreen/fork>)
+1. Fork it (<https://github.com/aryaminus/RN-splash-screen/fork>)
 2. Create your feature branch (`git checkout -b feature/fooBar`)
 3. Commit your changes (`git commit -am 'Add some fooBar'`)
 4. Push to the branch (`git push origin feature/fooBar`)
