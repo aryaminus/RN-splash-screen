@@ -2,7 +2,7 @@
 
 **RNsplashscreen** is the 1st session build for showing the implementation of Splashscreen in React-Native
 
-[![RNsplashscreen demo](https://i.imgur.com/iaoLU3O.gif)](http://www.youtube.com/watch?v=gC2iDVl4RRM)
+[![RNsplashscreen demo](https://i.imgur.com/iaoLU3O.gif)](https://youtu.be/rCWojb0frwc)
 
 **Note:**
 
